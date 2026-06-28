@@ -176,3 +176,15 @@ The interface uses lucide-react for icons and framer-motion for motion effects.
 These libraries help keep the experience clear, responsive, and polished without adding unnecessary complexity.
 
 ## Configuration Notes
+
+Local configuration should be placed in `.env.local`.
+
+Do not commit local environment files that contain machine-specific or private configuration.
+
+Use `.env.example` as the reference for supported environment values.
+
+## Deployment Notes
+
+This is a Next.js project, so it can be deployed using platforms that support Next.js applications.
+
+Before deployment, run:
