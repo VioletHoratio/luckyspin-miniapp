@@ -110,3 +110,14 @@ Create a production build:
 
 ```bash
 npm run build
+```
+
+This checks and compiles the application for production use.
+
+## Start
+
+Run the production build locally:
+
+```bash
+npm run start
+```
