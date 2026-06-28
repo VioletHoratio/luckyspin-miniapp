@@ -210,3 +210,15 @@ When making changes:
 ## Troubleshooting
 
 If the app does not start, try the following:
+
+- Confirm dependencies are installed with `npm install`
+- Confirm your Node.js version is compatible with Next.js 14
+- Check whether `.env.local` is required for your local setup
+- Restart the development server after changing environment values
+- Review terminal output for build or runtime errors
+
+## License
+
+No license information is provided in the original project README.
+
+Add a license file if the project is intended for public reuse or distribution.
