@@ -87,3 +87,15 @@ cp .env.example .env.local
 Then edit `.env.local` as needed for your local setup.
 
 If no overrides are required, you can start by using the default configuration included with the project.
+
+## Development
+
+Start the local development server:
+
+```bash
+npm run dev
+```
+
+After the server starts, open the local URL shown in your terminal.
+
+For most Next.js projects, this is commonly:
