@@ -99,3 +99,14 @@ npm run dev
 After the server starts, open the local URL shown in your terminal.
 
 For most Next.js projects, this is commonly:
+
+```text
+http://localhost:3000
+```
+
+## Build
+
+Create a production build:
+
+```bash
+npm run build
