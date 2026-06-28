@@ -200,3 +200,13 @@ Review any required environment settings for the deployment target before publis
 Contributions should keep the project focused on the LuckySpin Mini App experience.
 
 When making changes:
+
+- Keep TypeScript types clear
+- Prefer reusable components
+- Keep styling consistent with the existing Tailwind approach
+- Test the local development flow before submitting changes
+- Avoid adding unnecessary dependencies
+
+## Troubleshooting
+
+If the app does not start, try the following:
