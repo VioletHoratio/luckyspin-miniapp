@@ -75,3 +75,15 @@ npm install
 ```
 
 ## Environment Setup
+
+The project includes an example environment file.
+
+If you want to override the public builder configuration locally, copy `.env.example` to `.env.local`:
+
+```bash
+cp .env.example .env.local
+```
+
+Then edit `.env.local` as needed for your local setup.
+
+If no overrides are required, you can start by using the default configuration included with the project.
