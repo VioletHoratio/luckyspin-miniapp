@@ -1,22 +1,11 @@
 # LuckySpin
 
-LuckySpin is a Base Mini App for rapid onchain lottery spins with transparent reveal and jackpot pool flow.
+LuckySpin is a Base Mini App for fast onchain lottery spins with a transparent reveal experience and a visible jackpot pool flow.
 
-## Stack
+The project is built as a modern web application using Next.js, TypeScript, Tailwind CSS, and the Ethereum tooling stack provided by wagmi and viem.
 
-- Next.js 14
-- TypeScript
-- Tailwind CSS
-- wagmi + viem
-- lucide-react
-- framer-motion
+## Repository
 
-## Environment
+GitHub: https://github.com/VioletHoratio/luckyspin-miniapp.git
 
-Copy `.env.example` to `.env.local` if you want to override public builder configuration locally.
-
-## Scripts
-
-- `npm run dev`
-- `npm run build`
-- `npm run start`
+## Overview
