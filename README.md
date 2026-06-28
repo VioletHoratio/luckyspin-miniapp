@@ -131,3 +131,15 @@ npm run dev
 ```
 
 Starts the local development server.
+
+```bash
+npm run build
+```
+
+Builds the application for production.
+
+```bash
+npm run start
+```
+
+Starts the built production application.
