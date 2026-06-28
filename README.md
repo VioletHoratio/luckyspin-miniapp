@@ -188,3 +188,15 @@ Use `.env.example` as the reference for supported environment values.
 This is a Next.js project, so it can be deployed using platforms that support Next.js applications.
 
 Before deployment, run:
+
+```bash
+npm run build
+```
+
+Review any required environment settings for the deployment target before publishing.
+
+## Contributing
+
+Contributions should keep the project focused on the LuckySpin Mini App experience.
+
+When making changes:
