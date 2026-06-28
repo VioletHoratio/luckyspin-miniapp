@@ -43,3 +43,13 @@ The README is intended to help contributors install, run, and understand the pro
 - wagmi
 - viem
 - lucide-react
+- framer-motion
+
+## Requirements
+
+Before running the project, make sure you have the following installed:
+
+- Node.js
+- npm
+
+Use a current Node.js version that is compatible with Next.js 14.
