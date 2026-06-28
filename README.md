@@ -53,3 +53,15 @@ Before running the project, make sure you have the following installed:
 - npm
 
 Use a current Node.js version that is compatible with Next.js 14.
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/VioletHoratio/luckyspin-miniapp.git
+```
+
+Move into the project directory:
+
+```bash
