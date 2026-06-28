@@ -143,3 +143,15 @@ npm run start
 ```
 
 Starts the built production application.
+
+## Project Structure
+
+The exact structure may evolve over time, but the project is organized around a standard Next.js application layout.
+
+Common areas may include:
+
+- Application routes and pages
+- Reusable UI components
+- Styling configuration
+- Onchain configuration
+- Utility functions
