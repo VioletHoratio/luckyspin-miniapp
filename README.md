@@ -19,3 +19,16 @@ The app focuses on a simple user experience:
 - Start a spin
 - View the reveal
 - Follow the jackpot pool movement
+
+The README is intended to help contributors install, run, and understand the project locally.
+
+## Features
+
+- Base Mini App experience
+- Rapid lottery-style spin interface
+- Transparent reveal flow
+- Jackpot pool presentation
+- Next.js App Router foundation
+- Type-safe development with TypeScript
+- Styling with Tailwind CSS
+- Onchain interaction tooling through wagmi and viem
