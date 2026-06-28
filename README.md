@@ -32,3 +32,14 @@ The README is intended to help contributors install, run, and understand the pro
 - Type-safe development with TypeScript
 - Styling with Tailwind CSS
 - Onchain interaction tooling through wagmi and viem
+- Icon support through lucide-react
+- Motion and interaction polish through framer-motion
+
+## Tech Stack
+
+- Next.js 14
+- TypeScript
+- Tailwind CSS
+- wagmi
+- viem
+- lucide-react
