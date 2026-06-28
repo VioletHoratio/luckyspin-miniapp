@@ -121,3 +121,13 @@ Run the production build locally:
 ```bash
 npm run start
 ```
+
+Make sure you have already created a production build before running this command.
+
+## Available Scripts
+
+```bash
+npm run dev
+```
+
+Starts the local development server.
