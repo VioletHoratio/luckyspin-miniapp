@@ -166,3 +166,13 @@ Tailwind utility classes make it easier to build and adjust the interface direct
 ## Onchain Tooling
 
 The app uses wagmi and viem for onchain connectivity and interaction support.
+
+These libraries provide the foundation for working with Base-compatible flows in a type-safe TypeScript environment.
+
+## UI and Interaction
+
+The interface uses lucide-react for icons and framer-motion for motion effects.
+
+These libraries help keep the experience clear, responsive, and polished without adding unnecessary complexity.
+
+## Configuration Notes
