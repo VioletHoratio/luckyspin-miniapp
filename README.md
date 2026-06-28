@@ -65,3 +65,13 @@ git clone https://github.com/VioletHoratio/luckyspin-miniapp.git
 Move into the project directory:
 
 ```bash
+cd luckyspin-miniapp
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+## Environment Setup
