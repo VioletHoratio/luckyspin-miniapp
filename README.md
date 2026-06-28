@@ -155,3 +155,14 @@ Common areas may include:
 - Styling configuration
 - Onchain configuration
 - Utility functions
+- Public assets
+
+## Styling
+
+LuckySpin uses Tailwind CSS for styling.
+
+Tailwind utility classes make it easier to build and adjust the interface directly in components while keeping the design consistent.
+
+## Onchain Tooling
+
+The app uses wagmi and viem for onchain connectivity and interaction support.
